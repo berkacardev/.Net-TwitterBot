@@ -1,0 +1,15 @@
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\Entity.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\Entity.pdb
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\Entity.dll.config
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Berk Acar\Desktop\Net Projeler\TwitterBot\TwitterBot\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
